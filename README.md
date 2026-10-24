@@ -36,11 +36,13 @@ TheLook struggles with high cart abandonment and rising product returns. The goa
 - **Power Pivot:** star schema with two fact tables (order_items, events) and a Calendar table.
 - **DAX:** sessions, funnel rates, net revenue, return rate on delivered units, inventory measures.
 - **Forecast Sheet:** ETS model on 1,826 days (2019 to 2023), tested on 10 days of January 2024.
-- ## Documentation
 
-- [Data Dictionary](TheLook_Data_Dictionary_EN.xlsx): every table and column, removed columns with reasons, metric definitions, and data notes.
-- [DAX Measures](measures.md)
-- - [Project Report (PDF)](TheLook_Project_Report_EN.pdf): findings, corrections, recommendations, and limitations in two pages.
+
+## Documentation
+
+- [Project Report (PDF)](TheLook_Project_Report_EN.pdf): findings, corrections, recommendations, and limitations in two pages.
+- [Data Dictionary (Excel)](TheLook_Data_Dictionary_EN.xlsx): every table and column, removed columns with reasons, metric definitions, and data notes.
+- [DAX Measures](measures.md): the main measures and calculated columns.
 
 ## Corrections made along the way
 
