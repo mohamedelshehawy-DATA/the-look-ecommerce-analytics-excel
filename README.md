@@ -40,6 +40,7 @@ TheLook struggles with high cart abandonment and rising product returns. The goa
 
 - [Data Dictionary](TheLook_Data_Dictionary_EN.xlsx): every table and column, removed columns with reasons, metric definitions, and data notes.
 - [DAX Measures](measures.md)
+- - [Project Report (PDF)](TheLook_Project_Report_EN.pdf): findings, corrections, recommendations, and limitations in two pages.
 
 ## Corrections made along the way
 
